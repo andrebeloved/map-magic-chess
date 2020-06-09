@@ -1,0 +1,1 @@
+# map-magic-chess
